@@ -7,8 +7,8 @@ var CONFIG = {
 
     items: [
         { type: "commit", color: "#238636", pts: 10, weight: 50, sym: "\u2713" },
-        { type: "pr",     color: "#58a6ff", pts: 25, weight: 25, sym: "PR" },
-        { type: "star",   color: "#e3b341", pts: 50, weight: 5,  sym: "\u2605" },
+        { type: "25",     color: "#58a6ff", pts: 25, weight: 25, sym: "PR" },
+        { type: "50",   color: "#e3b341", pts: 50, weight: 5,  sym: "\u2605" },
         { type: "bug",    color: "#f85149", pts: 0,  weight: 20, sym: "\u2715", bad: true }
     ],
 
